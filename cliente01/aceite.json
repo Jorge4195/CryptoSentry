@@ -1,6 +1,14 @@
 {
   "cliente": "cliente01",
-  "aceito_em": "2025-05-01T17:37:52.001966",
+  "aceito_em": "2025-05-01T17:42:43.142274",
   "versao_termo": "1.0",
-  "ip_ou_maquina": "PC01"
+  "ip_ou_maquina": "PC01",
+  "ip_publico": "177.7.166.189",
+  "localizacao": {
+    "cidade": "S\u00e3o Jos\u00e9 dos Pinhais",
+    "estado": "Paran\u00e1",
+    "pais": "Brazil",
+    "latitude": -25.5283,
+    "longitude": -49.2161
+  }
 }
