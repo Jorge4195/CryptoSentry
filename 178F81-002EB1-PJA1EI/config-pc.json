@@ -1,0 +1,23 @@
+{
+  "hardware": {
+    "cpu": "178BFBFF00810F81",
+    "disk": "0025388991BE7EB1",
+    "mb": "PJAPL1D0GCR1EI"
+  },
+  "info": {
+    "hostname": "DESKTOP-37PV4K1",
+    "system": "Windows",
+    "release": "11",
+    "ip": "81.84.29.246"
+  },
+  "location": {
+    "city": "Sao Domingos de Rana",
+    "region": "Lisbon",
+    "country": "PT"
+  },
+  "configuration": {
+    "processor": "AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx",
+    "memory": "13.9GB, 2400MHz",
+    "disk": "SAMSUNG MZVLB512HAJQ-000H1"
+  }
+}
