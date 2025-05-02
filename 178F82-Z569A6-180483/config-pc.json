@@ -14,5 +14,10 @@
     "city": "Sao Jose dos Pinhais",
     "region": "Parana",
     "country": "BR"
+  },
+  "configuration": {
+    "processor": "AMD Ryzen 5 2600 Six-Core Processor",
+    "memory": "15.9GB, 2400MHz",
+    "disk": "ST2000DM006-2DM164"
   }
 }
