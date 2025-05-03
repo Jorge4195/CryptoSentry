@@ -1,0 +1,23 @@
+{
+  "hardware": {
+    "cpu": "BFEBFBFF00040651",
+    "disk": "23194Z800218",
+    "mb": "NBML811008504063B49501"
+  },
+  "info": {
+    "hostname": "DESKTOP-S6SDQSB",
+    "system": "Windows",
+    "release": "10",
+    "ip": "177.7.166.189"
+  },
+  "location": {
+    "city": "Sao Jose dos Pinhais",
+    "region": "Parana",
+    "country": "BR"
+  },
+  "configuration": {
+    "processor": "Intel(R) Core(TM) i7-4510U CPU @ 2.00GHz",
+    "memory": "7.9GB, 1600MHz",
+    "disk": "WD Green 2.5 240GB"
+  }
+}
